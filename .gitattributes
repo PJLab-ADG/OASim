@@ -1,1 +1,0 @@
-hmi/mesh/carla_data\#Street\#street_level=0.0_res=0.3.ply filter=lfs diff=lfs merge=lfs -text
