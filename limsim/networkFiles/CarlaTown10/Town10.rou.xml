@@ -1,5 +1,0 @@
-<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
-    <vehicle id="0" depart="0.00" departLane="3" arrivalLane="3" type="vehicle.jeep.wrangler_rubicon">
-        <route edges="4 -2 21 20 -15 -7" />
-    </vehicle>
-</routes>
