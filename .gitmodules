@@ -1,0 +1,3 @@
+[submodule "neuralsim"]
+	path = neuralsim
+	url = https://github.com/PJLab-ADG/neuralsim.git

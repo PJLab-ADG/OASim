@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-02-01 14:19:09 by Eclipse SUMO duarouter Version 1.18.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
+
+    <input>
+        <net-file value="limsim/networkFiles/CarlaTown10/Town10.net.xml"/>
+        <route-files value="/data/oasim_public_test/limsim/simModel/egoTracking/temp/temp.trip.xml"/>
+    </input>
+
+    <output>
+        <output-file value="/data/oasim_public_test/limsim/simModel/egoTracking/temp/temp.rou.xml"/>
+    </output>
+
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vehicle id="0" depart="0.00" departLane="3">
+        <route edges="4 -2 21 20 -15 -7"/>
+    </vehicle>
+</routes>

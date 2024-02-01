@@ -1,0 +1,39 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>chart2.jpg</file>
+    <file>icons/account.svg</file>
+    <file>icons/bell.svg</file>
+    <file>icons/black-shades.svg</file>
+    <file>icons/chart.svg</file>
+    <file>icons/close.svg</file>
+    <file>icons/cry.svg</file>
+    <file>icons/discord.svg</file>
+    <file>icons/euro_money.svg</file>
+    <file>icons/gas_pump.svg</file>
+    <file>icons/home.svg</file>
+    <file>icons/maximize.svg</file>
+    <file>icons/minimize.svg</file>
+    <file>icons/minus.svg</file>
+    <file>icons/money-hand.svg</file>
+    <file>icons/more.svg</file>
+    <file>icons/plus.svg</file>
+    <file>icons/pouch.svg</file>
+    <file>icons/settings.svg</file>
+    <file>icons/smile.svg</file>
+    <file>icons/wink.svg</file>
+    <file>icons/account.svg</file>
+    <file>icons/bell.svg</file>
+    <file>icons/black-shades.svg</file>
+    <file>icons/chart.svg</file>
+    <file>icons/cry.svg</file>
+    <file>icons/discord.svg</file>
+    <file>icons/euro_money.svg</file>
+    <file>icons/gas_pump.svg</file>
+    <file>icons/home.svg</file>
+    <file>icons/money-hand.svg</file>
+    <file>icons/plus.svg</file>
+    <file>icons/pouch.svg</file>
+    <file>icons/smile.svg</file>
+    <file>icons/wink.svg</file>
+  </qresource>
+</RCC>
