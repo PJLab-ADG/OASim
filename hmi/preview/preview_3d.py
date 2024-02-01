@@ -214,12 +214,6 @@ class PreviewWidget(QtWidgets.QWidget):
 from nr3d_lib.config import BaseConfig
 
 bc = BaseConfig()
-bc.parser.add_argument(
-    "--resume_dir",
-    type=str,
-    default="neuralsim/logs/streetsurf/all_1101_4cams_num_rays=40000_iter=21000.withmask_withlidar_exp1",
-    help="Specifies the directory of the experiment to load/resume. You should always specify one of --config or --resume_dir.",
-)
 bc.parser.add_argument("--downscale", type=float, default=4.0)
 bc.parser.add_argument("--rayschunk", type=int, default=60000)
 bc.parser.add_argument("--rayschunk_for_bg", type=int, default=2**16)
