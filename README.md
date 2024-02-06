@@ -1,4 +1,4 @@
-# OASim: an Open and Adaptive Simulator based on Neural Rendering for Autonomous Driving
+# OASim <img src="assets/icon.png" width=5%>: an Open and Adaptive Simulator based on Neural Rendering for Autonomous Driving
 
 [![Custom badge](https://img.shields.io/badge/Paper-Arxiv-b31b1b?logo=arxiv&logoColor=white?style=flat-square)](https://arxiv.org/abs/)
 [![Custom badge](https://img.shields.io/badge/Project%20Page-white?logo=GitHub&color=green?style=flat-square)](https://pjlab-adg.github.io/OASim)
@@ -6,7 +6,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/PJLab-ADG/DiLu?style=flat-square)](https://github.com/PJLab-ADG/OASim/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/PJLab-ADG/OASim/pulls)
 
-<img src="assets/icon.png" width=20%>
+
 
 ## 🔍 Framework Overview
 
