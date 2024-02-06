@@ -2,8 +2,8 @@
 
 [![Custom badge](https://img.shields.io/badge/Paper-Arxiv-b31b1b?logo=arxiv&logoColor=white?style=flat-square)](https://arxiv.org/abs/)
 [![Custom badge](https://img.shields.io/badge/Project%20Page-white?logo=GitHub&color=green?style=flat-square)](https://pjlab-adg.github.io/OASim)
-[![Stars](https://img.shields.io/github/stars/pjlab-adg/DiLu?style=social)](https://github.com/pjlab-adg/OASim/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/PJLab-ADG/DiLu?style=flat-square)](https://github.com/PJLab-ADG/OASim/issues)
+[![Stars](https://img.shields.io/github/stars/pjlab-adg/OASim?style=social)](https://github.com/pjlab-adg/OASim/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/PJLab-ADG/OASim?style=flat-square)](https://github.com/PJLab-ADG/OASim/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/PJLab-ADG/OASim/pulls)
 
 
