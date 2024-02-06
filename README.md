@@ -1,4 +1,4 @@
-<img src="assets/icon.png" width=80%>
+<img src="assets/icon.png" width=40%>
 # OASim: an Open and Adaptive Simulator based on Neural Rendering for Autonomous Driving
 
 [![Custom badge](https://img.shields.io/badge/Paper-Arxiv-b31b1b?logo=arxiv&logoColor=white?style=flat-square)](https://arxiv.org/abs/)
