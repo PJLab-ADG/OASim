@@ -9,7 +9,7 @@
 
 ## 🔍 Framework Overview
 
-<img src="./assets/framework.png" width=80%>
+<img src="assets/framework.jpg" width=80%>
 
 OASim focuses on generating new and highly customizable autonomous driving data through neural implicit reconstruction and rendering techniques. This technology has a wealth of applications, such as large-scale data and scene generation, corner case generation, autonomous driving closed-loop training, autonomous driving stack testing, etc.
 
@@ -94,12 +94,7 @@ First, click the `Choose Start Lane` button in the middle interface, and click o
 If you find our paper and codes useful, please kindly cite us via:
 
 ```bibtex
-@article{wen2023dilu,
-  title={Dilu: A knowledge-driven approach to autonomous driving with large language models},
-  author={Wen, Licheng and Fu, Daocheng and Li, Xin and Cai, Xinyu and Ma, Tao and Cai, Pinlong and Dou, Min and Shi, Botian and He, Liang and Qiao, Yu},
-  journal={arXiv preprint arXiv:2309.16292},
-  year={2023}
-}
+
 ```
 
 ## 📝 License
