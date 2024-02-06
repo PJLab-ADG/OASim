@@ -8,6 +8,11 @@
 
 
 
+https://github.com/PJLab-ADG/OASim/assets/24562717/ddb580c4-d329-419e-87f2-f3c8f487d8f7
+
+
+
+
 ## 🔍 Framework Overview
 
 <img src="assets/framework.jpg" width=80%>
