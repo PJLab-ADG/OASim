@@ -15,7 +15,7 @@ https://github.com/PJLab-ADG/OASim/assets/24562717/ddb580c4-d329-419e-87f2-f3c8f
 
 ## 🔍 Framework Overview
 
-<img src="assets/framework.jpg" width=80%>
+<img src="assets/framework.jpg" width=100%>
 
 OASim focuses on generating new and highly customizable autonomous driving data through neural implicit reconstruction and rendering techniques. This technology has a wealth of applications, such as large-scale data and scene generation, corner case generation, autonomous driving closed-loop training, autonomous driving stack testing, etc.
 
