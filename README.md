@@ -1,6 +1,6 @@
 # OASim: an Open and Adaptive Simulator based on Neural Rendering for Autonomous Driving
 
-[![Custom badge](https://img.shields.io/badge/Paper-Arxiv-b31b1b?logo=arxiv&logoColor=white?style=flat-square)](https://arxiv.org/abs/)
+[![Custom badge](https://img.shields.io/badge/Paper-Arxiv-b31b1b?logo=arxiv&logoColor=white?style=flat-square)](https://arxiv.org/abs/2402.03830)
 [![Custom badge](https://img.shields.io/badge/Project%20Page-white?logo=GitHub&color=green?style=flat-square)](https://pjlab-adg.github.io/OASim)
 [![Stars](https://img.shields.io/github/stars/pjlab-adg/OASim?style=social)](https://github.com/pjlab-adg/OASim/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/PJLab-ADG/OASim?style=flat-square)](https://github.com/PJLab-ADG/OASim/issues)
@@ -23,7 +23,7 @@ OASim focuses on generating new and highly customizable autonomous driving data 
 ## 🌟 Highlights
 - **`2024-02-08`** Codes are now release!
 - **`2024-02-07`** Explore our project page, now live [here](https://pjlab-adg.github.io/OASim)🔗!
-- **`2023-02-07`** Our paper is available on [Arxiv](https://arxiv.org/abs/)📄!
+- **`2023-02-07`** Our paper is available on [Arxiv](https://arxiv.org/abs/2402.03830)📄!
 
 
 ## 🚀 Getting Started
@@ -100,7 +100,14 @@ First, click the `Choose Start Lane` button in the middle interface, and click o
 If you find our paper and codes useful, please kindly cite us via:
 
 ```bibtex
-
+@misc{yan2024oasim,
+      title={OASim: an Open and Adaptive Simulator based on Neural Rendering for Autonomous Driving}, 
+      author={Guohang Yan and Jiahao Pi and Jianfei Guo and Zhaotong Luo and Min Dou and Nianchen Deng and Qiusheng Huang and Daocheng Fu and Licheng Wen and Pinlong Cai and Xing Gao and Xinyu Cai and Bo Zhang and Xuemeng Yang and Yeqi Bai and Hongbin Zhou and Botian Shi},
+      year={2024},
+      eprint={2402.03830},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
 
 ## 📝 License
