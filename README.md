@@ -77,7 +77,7 @@ Running OASim is straightforward:
 ```bash
 bash scripts/run_oasim.sh
 ```
-**Note:** Modify `--resume_dir` parameter in run_oasim.sh to the directory of the model file you downloaded.
+**Note:** Modify `--resume_dir` parameter in `run_oasim.sh` to the directory of the model file you downloaded.
 
 #### 3D Preview:
 
