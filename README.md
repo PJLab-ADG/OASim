@@ -56,7 +56,7 @@ pip install opencv-python-headless kornia imagesize omegaconf addict imageio ima
 
 ### 2. Configuration ⚙️ 
 
-`cd` to the `nr3d_lib` directory.
+`cd` to the `neuralsim/nr3d_lib` directory.
 
 Then: (Notice the trailing dot `.`)
 
@@ -67,8 +67,8 @@ pip install -v .
 Download the model file according to the link below.
 
 ```
-Link (链接): https://pan.baidu.com/s/1AODTuqhmgwbRWxGGCmo0iA 
-Extraction code (提取码): 94id
+Link (链接): https://pan.baidu.com/s/1HtRb_8mCSFeNtg9iwBtICg?pwd=vj56 
+Extraction code (提取码): vj56
 ```
 
 ### 3. Running OASim
