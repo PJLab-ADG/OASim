@@ -53,6 +53,13 @@ conda install pytorch-scatter -c pyg
 ```shell
 pip install opencv-python-headless kornia imagesize omegaconf addict imageio imageio-ffmpeg scikit-image scikit-learn pyyaml pynvml psutil seaborn==0.12.0 trimesh plyfile ninja icecream tqdm plyfile tensorboard PySide6 vtk dash-vtk numpy==1.24.2 dearpygui==1.8.0 matplotlib==3.7.1 pandas==2.0.0 pynput==1.7.6 rich==13.4.2 sumolib==1.16.0 traci==1.16.0
 ```
+- the most recent sumo
+
+```shell
+sudo add-apt-repository ppa:sumo/stable
+sudo apt-get update
+sudo apt-get install sumo sumo-tools sumo-doc
+```
 
 ### 2. Configuration ⚙️ 
 
