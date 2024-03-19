@@ -119,3 +119,7 @@ If you find our paper and codes useful, please kindly cite us via:
 
 ## 📝 License
 OASim is released under the Apache 2.0 license.
+
+
+## Contact
+If you have questions about this repo, please contact Yan Guohang (`yanguohang@pjlab.org.cn`).
