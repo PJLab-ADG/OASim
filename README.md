@@ -23,7 +23,7 @@ OASim focuses on generating new and highly customizable autonomous driving data 
 ## 🌟 Highlights
 - **`2024-02-08`** Codes are now release!
 - **`2024-02-07`** Explore our project page, now live [here](https://pjlab-adg.github.io/OASim)🔗!
-- **`2023-02-07`** Our paper is available on [Arxiv](https://arxiv.org/abs/2402.03830)📄!
+- **`2024-02-07`** Our paper is available on [Arxiv](https://arxiv.org/abs/2402.03830)📄!
 
 
 ## 🚀 Getting Started
